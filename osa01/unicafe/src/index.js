@@ -27,6 +27,35 @@ const Buttons = (props) => {
   )
 }
 
+const Statistic = (props) => {
+  return (
+    <>
+    {props.text} {props.values}  <br/>
+    </>
+  )
+}
+
+const Statistics = (props) => {
+  let all = props.good + props.bad + props.neutral
+  let average = (props.good - props.bad) / all
+  let positive = props.good / all * 100
+  if(all === 0) {
+    return (
+      <p>No feedback given</p>
+    )
+  }
+  return (
+    <div> 
+      <Statistic text="good" values={props.good}/>
+      <Statistic text="neutral" values={props.neutral}/>
+      <Statistic text="bad" values={props.bad}/>
+      <Statistic text="all" values={all}/>
+      <Statistic text="average" values={average}/>
+      <Statistic text="positive" values={positive}/>
+    </div>
+    )
+  }
+
 const App = () => {
   const [good, setGood] = useState(0)
   const [neutral, setNeutral] = useState(0)
@@ -45,18 +74,12 @@ const App = () => {
     setBad(bad +1)
   }
 
-  console.log('lisatty... good:', good, 'neutral:', neutral, 'bad:', bad)
-
   return (
     <div>
       <Header title={title}/>
       <Buttons button="good" onClick={handleClickGood} button2="neutral" onClick2={handleClickNeutral} button3="bad" onClick3={handleClickBad}/>
       <Header title={title2} />
-      <p>good {good}
-      <br/>
-      neutral {neutral}
-      <br/>
-      bad {bad}</p>
+      <Statistics good={good} neutral={neutral} bad={bad} />
     </div>
   )
 }
