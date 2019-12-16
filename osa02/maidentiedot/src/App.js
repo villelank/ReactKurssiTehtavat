@@ -2,7 +2,10 @@ import React, { useState, useEffect } from 'react'
 import axious from 'axios'
 
 const Country = ({ name }) => (
-  <div>{name}</div>
+  <div>
+    {name}
+    
+  </div> 
 )
 
 const CountryInfo = ({ name, languages, flag, capital, population} ) => (
@@ -27,7 +30,7 @@ const Countries = ({ countries, newSeacrh }) => {
 
   const searchedCountries =
     filteredCountries
-    .map(country => <Country key={country.alpha3Code} name={country.name}/>)
+    .map(country => <Country key={country.alpha3Code} name={country.name}/><button>show more info</button>)
   
   if(filteredCountries.length === 1) {
     return <CountryInfo 

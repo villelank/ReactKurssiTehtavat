@@ -1,0 +1,102 @@
+{
+"vitsit": [
+  {
+    "id": 1,
+    "name": "Suden lounas",
+    "content": "Mitä susi söi lounaaksi?\n\n– Pari reissumiestä!",
+    "category": "elaimet",
+    "date": ""
+  },
+  {
+    "id": 2,
+    "name": "Eukon selkä",
+    "content": "Eukko valitti selkäänsä.\n\n– Ei se ainakaan noidannuoli ole, ukko vastasi.\n\n– No, mistä sinä sen tiedät, kysyi eukko.\n\n– Ei ne omiaan ammu, vastasi ukko.",
+    "category": "ihmiset; avioliitto",
+    "date": ""
+  },
+  {
+    "id": 3,
+    "name": "Pikku-Kallen sukset",
+    "content": "Mitä Pikku-Kallen äiti sanoi, kun pikku Kalle osti itselleen sukset?\n\n– Suksi kuuseen.",
+    "category": "pikkukalle; ihmiset",
+    "date": ""
+  },
+  {
+    "id": 4,
+    "name": "Iskelmälaulajien lampun vaihto",
+    "content": "Kuinka monta iskelmälaulajaa tarvitaan vaihtamaan hehkulamppu?\n\n– Esimerkiksi viisi. Yksi vaihtaa lampun ja neljä tekee biisin siitä, kuinka ikävä heillä on vanhaa hehkulamppua.",
+    "category": "ihmiset; musiikki",
+    "date": ""
+  },
+  {
+    "id": 5,
+    "name": "Barbien ostoksilla",
+    "content": "Mies menee nukkekauppaan ostamaan Barbie-nukkea tyttärelleen joululahjaksi. Hän kysyy myyjältä, mitä Barbiet maksavat.\n\nMyyjä kertoo: Meillä on Shopper-Barbie 24,90 euroa, Beach-Barbie 24,90, Disco-Barbie 24,90, Astronautti-Barbie 24,90 ja Ero-Barbie 199,50 euroa.\n\nHämmentynyt isä kysyy: Miksi Ero-Barbie maksaa monin kerroin muihin verrattuna?\n\nMyyjä pyörittelee silmiään ja huokaa: Hyvä herra, Ero-Barbien mukaan tulee tietysti myös Kenin auto, Kenin talo, Kenin mökki, Kenin vene, Kenin moottoripyörä ja yksi Kenin ystävistä.",
+    "category": "ihmiset; raha; avioliitto",
+    "date": ""
+  },
+  {
+    "id": 6,
+    "name": "Mikä itkettää?",
+    "content": "Ainoa ruoka-aine joka saa minut itkemään on sipuli.\n\n– Katsotaanko mitä tapahtuu, jos heitän sinua vesimelonilla päähän!",
+    "category": "ihmiset; ruoka",
+    "date": ""
+  },
+  {
+    "id": 7,
+    "name": "Nakki vai katti?",
+    "content": "Mitä eroa on katilla ja nakilla?\n\n– Ei mitään. Katti voi olla nakkilassa ja nakki kattilassa.",
+    "category": "ruoka; ihmiset; paikka",
+    "date": ""
+  },
+  {
+    "id": 8,
+    "name": "Suomalaisen ja ruotsalaisen palapeli",
+    "content": "Suomalainen antoi eräänä jouluna ruotsalaiselle ystävälleen lahjaksi palapelin. Ruotsalainen ilahtui lahjasta ja kävi heti toimeen.\n\nEräänä yönä maaliskuussa suomalainen heräsi ruotsalaisen puhelinsoittoon.\n\n– Hei! Kuule, nyt minä olen saanut valmiiksi sen palapelin, jonka annoit minulle jouluna.\n\n– Vai niin. Etkö olisi voinut odottaa aamuun, ennen kuin kerrot tästä?\n\n– Arvelin, että haluat kuulla tästä heti, kun tämä valmistui näin nopeasti. Minulla meni tähän vain kolme kuukautta, vaikka laatikon kannessa lukee 4-6 vuotta!",
+    "category": "ihmiset; pelit; maat",
+    "date": ""
+  },
+  {
+    "id": 9,
+    "name": "Töissä mielisairaalassa",
+    "content": "Mies vieraili mielisairaalassa ja kysyi johtavalta psykiatrilta, miten päätetään, onko potilas sijoitettava laitoshoitoon vai ei.\n\n– Helposti, vastasi johtaja.\n\n– Täytämme kylpyammeen vedellä. Annamme sen jälkeen potilaalle teelusikan, kahvikupin ja ämpärin ja potilasta pyydetään tyhjentämään amme.\n\nMies vastasi:\n\n– Ymmärrän. Normaali ihminen käyttäisi ämpäriä, koska se on suurempi kuin teelusikka tai kahvikuppi.\n\nJohtaja vastasi:\n\n– Ei. Normaali ihminen vetäisi ammeen tulpan irti. Haluatko sängyn ikkunapaikalla?",
+    "category": "ihmiset; työ",
+    "date": ""
+  },
+  {
+    "id": 10,
+    "name": "Vanhat herrasmiehet puhuvat naisista",
+    "content": "Kaksi vanhahkoa herrasmiestä keskusteli, naisista tietysti.\n\nToinen tiedusteli kohteliaasti: Montaks kertaa sää viel jaksat, noin niinkuin naisen kans?\n\nToinen vastas, ett kyll kaksi kertaa viel menee.\n\n– Jaa-jaa. Mull tekee joskus tiukkaa yhden kerrankin kans. Kump kerta niist on sun miälestäs makiampi?\n\n– Jaa. Kyll se melkein on se syksyinen.",
+    "category": "ihmiset; avioliitto; vanhat",
+    "date": ""
+  },
+  {
+    "id": 11,
+    "name": "Eläkeläisten keskustelu",
+    "content": "Kaksi vanhaa miestä keskusteli. Toinen sanoi: En oikein tahdo kuulla. Toinen vastasi: Minä taas tahtoisin, mutta en kuule.",
+    "category": "ihmiset; vanhat",
+    "date": ""
+  },
+  {
+    "id": 12,
+    "name": "Miesten kirjat",
+    "content": "Mies meni kirjastoon ja kysyi virkailijalta mistähän päin hän löytäisi kirjan ”Mies, talon herra”.\n\nSatukirjat meillä on tuolla seinällä, vastasi ystävällinen virkailija.",
+    "category": "ihmiset; kirjasto",
+    "date": ""
+  },
+  {
+    "id": 13,
+    "name": "Mitä yhteistä on Arttu Wiskarilla ja...",
+    "content": "Mitä yhteistä on Arttu Wiskarilla ja ilmastonmuutoksella?\n\n– Kumpikin on jo täällä, joten niiden kanssa on vain opittava elämään.",
+    "category": "ihmiset; musiikki",
+    "date": ""
+  },
+  {
+    "id": 14,
+    "name": "Patri Laineen maali",
+    "content": "Mitä yleisö teki kun Patrik Laine pieraisi?\n\nTuuletti.",
+    "category": "urheilu",
+    "date": ""
+  }
+]
+}
